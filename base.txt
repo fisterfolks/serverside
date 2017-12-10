@@ -1,0 +1,2 @@
+name=Ayder,password=13423
+name=Semyon,password=qwerty
